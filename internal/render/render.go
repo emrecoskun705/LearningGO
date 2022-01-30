@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/emrecoskun705/LearningGO/pkg/config"
-	"github.com/emrecoskun705/LearningGO/pkg/models"
+	"github.com/emrecoskun705/LearningGO/internal/config"
+	"github.com/emrecoskun705/LearningGO/internal/models"
 	"github.com/justinas/nosurf"
 )
 

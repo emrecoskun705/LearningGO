@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/emrecoskun705/LearningGO/pkg/config"
-	"github.com/emrecoskun705/LearningGO/pkg/handlers"
-	"github.com/emrecoskun705/LearningGO/pkg/render"
+	"github.com/emrecoskun705/LearningGO/internal/config"
+	"github.com/emrecoskun705/LearningGO/internal/handlers"
+	"github.com/emrecoskun705/LearningGO/internal/render"
 )
 
 const portNumber = ":8000"
